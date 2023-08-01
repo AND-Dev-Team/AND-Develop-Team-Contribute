@@ -6,3 +6,7 @@ The main purpose of this warehouse is to announce some individuals who have made
 项目更名后B站点赞人员(前100尽量记录，未记录可以和在lssues联系)：
 $1:  加加油111$</br>
 $2:  咦嘿嘿咦嘿$</br>
+$3:  西青虾仁$</br>
+$4:  海绵宝宝与水母$</br>
+$5:  落夕风---$</br>
+$6:  独恋你倾城$</br>
